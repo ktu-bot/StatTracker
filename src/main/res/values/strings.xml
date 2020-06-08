@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stat Tracker</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="sets">Sets:</string>
+    <string name="points_for_a">Point for Team A</string>
+    <string name="points_for_b">Point for Team B</string>
+    <string name="asses_a">Team A Streak</string>
+    <string name="asses_b">Team B Streak</string>
+    <string name="asses_for_a">Team A Streak</string>
+    <string name="asses_for_b">Team B Streak</string>
+    <string name="reset_button">Reset</string>
+</resources>
