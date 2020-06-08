@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StatTracker.iml" filepath="$PROJECT_DIR$/StatTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatTracker.iml" filepath="$PROJECT_DIR$/StatTracker.iml" group="StatTracker" />
+      <module fileurl="file://$PROJECT_DIR$/app/StatTracker-app.iml" filepath="$PROJECT_DIR$/app/StatTracker-app.iml" group="StatTracker/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleyballCounter.iml" filepath="$PROJECT_DIR$/volleyballCounter.iml" group="volleyballCounter" />
     </modules>
   </component>
 </project>
